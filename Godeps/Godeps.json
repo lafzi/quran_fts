@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/harunalfat/quran-clean-fts",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/mattn/go-sqlite3",
+			"Comment": "v1.10.0-27-g87ac1cb",
+			"Rev": "87ac1cb49789a0ef6b0d7be6b7aa458a9b90d7ae"
+		}
+	]
+}
